@@ -6,12 +6,11 @@ UTMSpace Student
 
 I am a student studying in Bachelor of Computer Science (Software Engineering) with Honours in University of Technology Malaysia (UTM) SPACE KL.
 
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [siong@graduate.utm.my](mailto:siong@graduate.utm.my)
-* 🚀  I'm currently working on my [e-portfolio](https://Siong010.github.io/)
-* 🧠  I'm learning in Bachelor of Computer Science (Software Engineering) with Honours
-* 🤝  I'm open to collaborating on assignments and projects (exp: [EWA WORKSPACE](https://github.com/Siong010/ewa-workspace.git))
-* ⚡  Well done is BETTER than well said
+* 📍  I'm based in Malaysia
+* 📬  You can contact me at [siong@graduate.utm.my](mailto:siong@graduate.utm.my)
+* 💼  I'm currently working on my [e-portfolio](https://Siong010.github.io/)
+* 📖  I'm learning in Bachelor of Computer Science (Software Engineering) with Honours
+
 ** **
 ## 🎓 **My Education Journey**
 
