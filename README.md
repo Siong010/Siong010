@@ -15,7 +15,7 @@ I am a student studying in Bachelor of Computer Science (Software Engineering) w
 ** **
 ## 🎓 **My Education Background**
 
-### 🏛️ **Bachelor of Computer Science (Software Engineering)** (📅 2023 - Present)  
+### 🏛️ **Bachelor of Computer Science (Software Engineering) with Honours** (📅 2023 - Present)  
 > 🎓 **University of Technology Malaysia (UTM) SPACE KL** — *"Mastering the Art of Software Engineering!"*
 
 ** **
