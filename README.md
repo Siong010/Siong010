@@ -9,7 +9,7 @@ I am a student studying in Bachelor of Computer Science (Software Engineering) w
 * 📍  I'm based in Malaysia
 * 📬  You can contact me at [siong@graduate.utm.my](mailto:siong@graduate.utm.my)
 * 📖  I'm studying Bachelor of Computer Science (Software Engineering) with Honours
-* 💼  I'm currently working on my [e-portfolio](https://Siong010.github.io/)
+* 💼  I'm currently working on my [e-portfolio]([https://Siong010.github.io/](https://siong010.github.io/E-portfolio/))
 
 
 ** **
