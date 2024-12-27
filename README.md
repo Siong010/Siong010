@@ -36,8 +36,7 @@ Here are some of my notable projects that I've worked on:
 | 📝 **E-Portfolio**       | A showcase of my learning journey  | [View Project](https://siong010.github.io/E-portfolio/) |
 | 💡 **D.Trichonephila**    | My first website          | [View Project](https://github.com/Siong010/d.trichonephila.git)         |
 
-> 🎯 **More Projects:** Check out my GitHub repositories [here](https://github.com/siong010?tab=repositories).
-> 
+
 ** **
 ## 👉👈 **Connect with Me** 
 
