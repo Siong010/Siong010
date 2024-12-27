@@ -16,11 +16,7 @@ I am a student studying in Bachelor of Computer Science (Software Engineering) w
 
 ### 🏛️ **Bachelor of Computer Science (Software Engineering)** (📅 2023 - Present)  
 > 🎓 **University of Technology Malaysia (UTM) SPACE KL** — *"Mastering the Art of Software Engineering!"*
-** **
-## 💼 **Positions**
 
-### 🏛️ **Degree** 
-> 👩‍💻 None
 ** **
 ## 🛠️ **Skills**
 
@@ -37,7 +33,7 @@ Here are some of my notable projects that I've worked on:
 | 🔥 **Project**           | 📄 **Description**                 | 🚀 **Live Demo**         |
 |-------------------------|-------------------------------------|--------------------------|
 | 📝 **E-Portfolio**       | A showcase of my learning journey  | [View Project](https://Siong010.github.io/) |
-| 💡 **EWA Workspace**    | My first website          | [View Project](https://github.com/Siong010/ewa-workspace.git)         |
+| 💡 **D.Trichonephila**    | My first website          | [View Project](https://github.com/Siong010/d.trichonephila.git)         |
 
 > 🎯 **More Projects:** Check out my GitHub repositories [here](https://github.com/siong010?tab=repositories).
 > 
