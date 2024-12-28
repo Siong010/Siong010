@@ -35,8 +35,8 @@ Here are some of my notable projects that I've worked on:
 |-------------------------|-------------------------------------|--------------------------|
 | 📝 **E-Portfolio**       | A showcase of my learning journey  | [View Project](https://siong010.github.io/E-portfolio/) |
 | 🕸️ **D.Trichonephila**    | My first website          | [View Project](https://siong010.github.io/Website/)        |
-| 🖥️ **Design Thinking**    | Design Thinking Video          | [View Project](https://youtu.be/mhGm2eA9Oe8)        |
-| 🖨️ **Design Thinking Interview**    | Design Thinking Interview          | [View Project](https://youtu.be/A_SPsq9VqlE)        |
+| 🖥️ **Design Thinking**    | Design Thinking Video          | [View Project](https://youtu.be/A_SPsq9VqlE)        |
+| 🖨️ **Design Thinking Interview**    | Design Thinking Interview          | [View Project](https://youtu.be/mhGm2eA9Oe8)        |
 
 ## 💎 **My Reflections**
 Before taking up this course, I have only basic understanding of computer and devices through everyday life uses. This course has helped to expand my horizon and better understanding on the underlying computer cocncepts. The assignemnt of this course also bring me to the doorstep of the information technology industry where I get to be in touch and connect with people across the globe on GitHub for further expand my skills as a software engineer. On top of that, the course's design thinking assignment stimulate me to think in a new way how to better tackle world's problem and I am sure that this will definitely help me to propel myself further in the industry and to help solve problems faced. I am also grateful that I have a bunch of good friends who fight alongside me during the ups and downs. I am more aspired to be a software engineer now than before.
