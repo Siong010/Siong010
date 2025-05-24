@@ -35,7 +35,7 @@ Here are some of my notable projects that I've worked on:
 |-------------------------|-------------------------------------|--------------------------|
 | 📝 **E-Portfolio**       | A showcase of my learning journey  | [View Project](https://siong010.github.io/E-portfolio/) |
 | 🕸️ **D.Trichonephila**    | My first website          | [View Project](https://siong010.github.io/Website/)        |
-| 🖥️ **AI - Triumph or Doom of Mankind**    | PST Video          | [View Project]()        |
+| 🖥️ **AI - Triumph or Doom of Mankind**    | PST Video          | [View Project](https://youtu.be/RFsE2bsrN0A)        |
 
 ** **
 ## 💎 **My Reflections**
